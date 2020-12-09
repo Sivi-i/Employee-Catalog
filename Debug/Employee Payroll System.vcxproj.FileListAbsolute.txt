@@ -1,0 +1,2 @@
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Debug\Employee Payroll System.exe
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Debug\Employee Payroll System.pdb

@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(87,16): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(29): message : see declaration of 'Node'
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(87,37): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(29): message : see declaration of 'Node'
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(87,64): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(29): message : see declaration of 'Node'
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(155,7): warning C4101: 'phone_Number': unreferenced local variable
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(154,7): warning C4101: 'living_address': unreferenced local variable
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(157,7): warning C4101: 'job_Description': unreferenced local variable
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(210,7): warning C4101: 'stringChange2': unreferenced local variable
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(211,6): warning C4101: 'numChange': unreferenced local variable
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(213,6): warning C4101: 'errorCount': unreferenced local variable
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(482,12): warning C4129: 'H': unrecognized character escape sequence
+C:\Users\Mega Replay\source\repos\Employee Payroll System\Source.cpp(684,20): warning C4018: '<': signed/unsigned mismatch
+  Employee Payroll System.vcxproj -> C:\Users\Mega Replay\source\repos\Employee Payroll System\Debug\Employee Payroll System.exe
