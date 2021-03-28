@@ -22,8 +22,6 @@ AddEmployee and InputValidator. Not Fully Successful Quite Yet in Input Validati
 
 using namespace std;
 
-//Functions To Be Used
-
 
 //Doubly Linked List Class
 class Node {
@@ -678,7 +676,7 @@ void ExitProgram() {
 }
 
 bool InputValidator(string input) {
-	int isAllDigits = 1;
+	int isAllDigits = 0;
 
 
 	for (int i = 0; i < input.size(); i++) {
@@ -694,9 +692,8 @@ bool InputValidator(string input) {
 
 
 	if (isAllDigits == input.length()) {
-		cout << "\nInput Length: " << input.length() << endl;
-		cout << "\nInput Size: " << input.size() << endl;
-		cout << "\nisAllDigits Returning True" << endl;
+		cout << input.size();
+		cout << isAllDigits << endl;
 		return true;
 	}
 	else {
