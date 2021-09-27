@@ -1,7 +1,7 @@
 /*
 Name: Chris Starks
 Filename: Source.cpp
-Description: This is a Payroll Management System. (Finish Editing Later)
+Description: This is a Payroll Management System
 Edits:
 7/19/2020 - Attempting to Add an Input Validation System. Working on Two Methods at the Moment to Implement this,
 AddEmployee and InputValidator. Not Fully Successful Quite Yet in Input Validation.
